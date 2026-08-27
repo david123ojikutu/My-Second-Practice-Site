@@ -1,12 +1,12 @@
 **HTML 1-6 Element - &lt;h1&gt;&lt;/h1&gt;, &lt;h2&gt;&lt;/h2&gt;, etc.**<br>
-Paragraph Element - &lt;p&gt;<br>
-Image Element - &lt;img src="" alt=""&gt;<br>
+**Paragraph Element - &lt;p&gt;**<br>
+**Image Element - &lt;img src="" alt=""&gt;**<br>
 Checked Attribute - &lt;input type="checkbox" checked&gt;<br>
 Detailed Checked Attribute - &lt;input type="checkbox" name="subscribe" value="yes" checked&gt;<br>
 Disabled Attribute - &lt;input type="text" name="username" disabled&gt;<br>
 Required Attribute - &lt;input type="text" name="phone" required&gt;<br>
 Readonly Attribute - &lt;input type="text" name="email" readonly&gt;<br>
-"A" Element - &lt;a href="" target=""&gt;&lt;/a&gt;<br>
+**"A" Element - &lt;a href="" target=""&gt;&lt;/a&gt;**<br>
 Link Element - &lt;link rel="" href=""&gt;<br>
 Crossorigin Attribute - &lt;link rel="" href="" crossorigin&gt;<br>
 Fonts - &lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;<br>
