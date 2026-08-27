@@ -1,4 +1,4 @@
-HTML 1-6 Element - &lt;h1&gt;&lt;/h1&gt;, &lt;h2&gt;&lt;/h2&gt;, etc.<br>
+**HTML 1-6 Element - &lt;h1&gt;&lt;/h1&gt;, &lt;h2&gt;&lt;/h2&gt;, etc.**<br>
 Paragraph Element - &lt;p&gt;<br>
 Image Element - &lt;img src="" alt=""&gt;<br>
 Checked Attribute - &lt;input type="checkbox" checked&gt;<br>
@@ -12,21 +12,21 @@ Crossorigin Attribute - &lt;link rel="" href="" crossorigin&gt;<br>
 Fonts - &lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;<br>
 Stylesheet - &lt;link rel="stylesheet" href="./styles.css"&gt;<br>
 Favicon - &lt;link rel="icon" href="favicon.ico"&gt;<br>
-Head element - &lt;head&gt;&lt;/head&gt;<br>
-Body element - &lt;body&gt;&lt;/body&gt;<br>
-Doctype - &lt;!DOCTYPE html&gt;<br>
-HTML element - &lt;html lang="eng"&gt;<br>
-Metadata element1 - &lt;meta charset="UTF-8"&gt;<br>
-Metadata element2 - &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;<br>
+**Head element - &lt;head&gt;&lt;/head&gt;<br>
+Body element - &lt;body&gt;&lt;/body&gt;**<br>
+**Doctype - &lt;!DOCTYPE html&gt;**<br>
+**HTML element - &lt;html lang="eng"&gt;**<br>
+**Metadata element1 - &lt;meta charset="UTF-8"&gt;<br>
+Metadata element2 - &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;**<br>
 Metadata element3 - &lt;meta name="description" content="Discover expert tips and techniques for gardening in small spaces, choosing the right plants, and maintaining a thriving garden." /&gt;<br>
 Metadata element4 (w/ OG) - &lt;meta content="freeCodeCamp.org" property="og:title" /&gt;<br>
 Metadata element5 (w/ OG) - &lt;meta content="website" property="og:type" /&gt;<br>
 Metadata element6 (w/ OG) - &lt;meta content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" property="og:image" /&gt;<br>
 Metadata element7 (w/ OG) - &lt;meta content="freecodecamp.org" property="og:url" /&gt;<br>
-Title element - &lt;title&gt;Document Title Goes Here&lt;/title&gt;<br>
+**Title element - &lt;title&gt;Document Title Goes Here&lt;/title&gt;**<br>
 Comment element (sorta) - &lt;!-- TODO: Remove h1 --&gt;<br>
 Target Attribute - &lt;a href="" target="_blank"&gt;&lt;/a&gt;<br>
-Main element - &lt;main&gt;&lt;/main&gt;<br>
+**Main element - &lt;main&gt;&lt;/main&gt;**<br>
 Section element - &lt;section&gt;&lt;/section&gt;<br>
 Unordered list element - &lt;ul&gt; &lt;li&gt;&lt;/li&gt; &lt;/ul&gt;<br>
 Ordered list element - &lt;ol&gt; &lt;li&gt;&lt;/li&gt; &lt;/ol&gt;<br>
@@ -34,7 +34,7 @@ Figure element - &lt;figure&gt;&lt;/figure&gt;<br>
 Figcaption element - &lt;figcaption&gt;&lt;/figcaption&gt;<br>
 Emphasis element - &lt;em&gt;love&lt;/em&gt;<br>
 Strong element - &lt;strong&gt;hate&lt;/strong&gt;<br>
-Footer element - &lt;footer&gt;&lt;/footer&gt;<br>
+**Footer element - &lt;footer&gt;&lt;/footer&gt;**<br>
 Div element - &lt;div&gt;&lt;/div&gt;<br>
 Id attribute - &lt;h1 id="title"&gt;Movie Review Page&lt;/h1&gt;<br>
 Class attribute - &lt;div class="box"&gt;&lt;/div&gt;<br>
