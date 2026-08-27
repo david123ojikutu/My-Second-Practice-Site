@@ -7,11 +7,11 @@ Disabled Attribute - &lt;input type="text" name="username" disabled&gt;<br>
 Required Attribute - &lt;input type="text" name="phone" required&gt;<br>
 Readonly Attribute - &lt;input type="text" name="email" readonly&gt;<br>
 **"A" Element - &lt;a href="" target=""&gt;&lt;/a&gt;**<br>
-Link Element - &lt;link rel="" href=""&gt;<br>
+**Link Element - &lt;link rel="" href=""&gt;**<br>
 Crossorigin Attribute - &lt;link rel="" href="" crossorigin&gt;<br>
 Fonts - &lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;<br>
-Stylesheet - &lt;link rel="stylesheet" href="./styles.css"&gt;<br>
-Favicon - &lt;link rel="icon" href="favicon.ico"&gt;<br>
+**Stylesheet - &lt;link rel="stylesheet" href="./styles.css"&gt;<br>
+Favicon - &lt;link rel="icon" href="favicon.ico"&gt;**<br>
 **Head element - &lt;head&gt;&lt;/head&gt;<br>
 Body element - &lt;body&gt;&lt;/body&gt;**<br>
 **Doctype - &lt;!DOCTYPE html&gt;**<br>
