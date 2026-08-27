@@ -12,12 +12,6 @@ Crossorigin Attribute - <link rel="" href="" crossorigin>
 Fonts - <link rel="preconnect" href="https://fonts.googleapis.com">
 Stylesheet - <link rel="stylesheet" href="./styles.css">
 Favicon - <link rel="icon" href="favicon.ico">
-Head element - <head></head>
-Body element - <body></body>
-Doctype - <!DOCTYPE html>
-HTML element - <html lang="eng">
-Metadata element1 - <meta charset="UTF-8">
-Metadata element2 - <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 Metadata element3 - <meta name="description" content="Discover expert tips and techniques for gardening in small spaces, choosing the right plants, and maintaining a thriving garden." />
 Metadata element4 (w/ OG) - <meta content="freeCodeCamp.org" property="og:title" />
 Metadata element5 (w/ OG) - <meta content="website" property="og:type" />
