@@ -1,0 +1,181 @@
+HTML 1-6 Element - <h1></h1>, <h2></h2>, etc.
+Paragraph Element - <p>
+Image Element - <img src="" alt="">
+Checked Attribute - <input type="checkbox" checked>
+Detailed Checked Attribute - <input type="checkbox" name="subscribe" value="yes" checked>
+Disabled Attribute - <input type="text" name="username" disabled>
+Required Attribute - <input type="text" name="phone" required>
+Readonly Attribute - <input type="text" name="email" readonly>
+"A" Element - <a href="" target=""></a>
+Link Element - <link rel="" href="">
+Crossorigin Attribute - <link rel="" href="" crossorigin>
+Fonts - <link rel="preconnect" href="https://fonts.googleapis.com">
+Stylesheet - <link rel="stylesheet" href="./styles.css">
+Favicon - <link rel="icon" href="favicon.ico">
+Head element - <head></head>
+Body element - <body></body>
+Doctype - <!DOCTYPE html>
+HTML element - <html lang="eng">
+Metadata element1 - <meta charset="UTF-8">
+Metadata element2 - <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+Metadata element3 - <meta name="description" content="Discover expert tips and techniques for gardening in small spaces, choosing the right plants, and maintaining a thriving garden." />
+Metadata element4 (w/ OG) - <meta content="freeCodeCamp.org" property="og:title" />
+Metadata element5 (w/ OG) - <meta content="website" property="og:type" />
+Metadata element6 (w/ OG) - <meta content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" property="og:image" />
+Metadata element7 (w/ OG) - <meta content="freecodecamp.org" property="og:url" />
+Title element - <title>Document Title Goes Here</title>
+Comment element (sorta) - <!-- TODO: Remove h1 -->
+Target Attribute - <a href="" target="_blank"></a>
+Main element - <main></main>
+Section element - <section></section>
+Unordered list element - <ul> <li></li> </ul>
+Ordered list element - <ol> <li></li> </ol>
+Figure element - <figure></figure>
+Figcaption element - <figcaption></figcaption>
+Emphasis element - <em>love</em>
+Strong element - <strong>hate</strong>
+Footer element - <footer></footer>
+Div element - <div></div>
+Id attribute - <h1 id="title">Movie Review Page</h1>
+Class attribute - <div class="box"></div>
+HTML entitles (for reserved characters) - &lt;p&gt;learning is fun&lt;/p&gt;
+Script element - <script src=""></script>
+Button element - <button></button>
+Audio element - <audio src="https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3" loop controls muted></audio>
+Source elements in audio element - <audio controls> <source src="audio.ogg" type="audio/ogg" /> <source src="audio.wav" type="audio/wav" /> <source src="audio.mp3" type="audio/mpeg" /> </audio>
+Video element - <video
+src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+loop
+autoplay
+controls
+poster="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217"
+muted
+width="400"
+></video>
+Source elements in video element - <video controls width="400" poster="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217" > <source src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4" type="video/mp4" /> <source src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.webm" type="video/webm" /> Your browser does not support the video tag. </video>
+SVG element - <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<circle cx="50" cy="50" r="45" stroke="black" stroke-width="4" fill="yellow" />
+<circle cx="35" cy="40" r="5" fill="black" />
+<circle cx="65" cy="40" r="5" fill="black" />
+<path d="M35 65 Q50 80 65 65" stroke="black" stroke-width="4" fill="transparent" />
+</svg>
+Iframe element - <iframe
+width="400"
+height="400"
+src="https://www.youtube.com/embed/PkZNo7MFNFg?si=-UBVIUNM3csdeiWF"
+title="Learn JavaScript - Full Course for Beginners (YouTube video)"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen
+></iframe>
+Iframe Map element - <iframe
+title="Map of the Royal Observatory, Greenwich, London"
+width="300"
+height="200"
+src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&amp;layer=mapnik">
+</iframe>
+Input Image element - <input type="image" alt="Descriptive text goes here" src="example-img-url">
+Navigation element - <nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Contact</a>
+</nav>
+Idiomatic element - <p>There is a certain <i lang="fr">je ne sais quoi</i> in the air.</p>
+Emphasis element - <p>
+Never give up on <em>your</em> dreams.
+</p>
+Bring Attention to element - <p>
+We tested several products, including the <b>SuperSound 3000</b> for audio
+quality, the <b>QuickCharge Pro</b> for fast charging, and the
+<b>EcoClean Vacuum</b> for cleaning. The first two performed well, but the
+<b>EcoClean Vacuum</b> did not meet expectations.
+</p>
+Strong element - <p>
+<strong>Warning:</strong> This product may cause allergic reactions.
+</p>
+Description element - <dl>
+<dt>Flour</dt>
+<dd>2 cups</dd>
+<dt>Sugar</dt>
+<dd>1/2 cup</dd>
+<!-- <dt>Vegetable Oil</dt>
+<dd>2 tablespoons</dd> -->
+</dl>
+Blockquote element 1 - <blockquote cite="https://www.freecodecamp.org/news/learn-to-code-book/">
+"Can you imagine what it would be like to be a successful developer? To have built software systems that people rely upon?"
+</blockquote>
+Blockquote element 2 (w/ cite element) - <div>
+<blockquote cite="https://www.freecodecamp.org/news/learn-to-code-book/">
+Can you imagine what it would be like to be a successful developer? To have built software systems that people rely upon?
+</blockquote>
+<p>—Quincy Larson, <cite>How to Learn to Code and Get a Developer Job [Full Book].</cite></p>
+</div>
+Inline quotation element - <p>
+As Quincy Larson said,
+<q cite="https://www.freecodecamp.org/news/learn-to-code-book/">
+Momentum is everything.
+</q>
+</p>
+Abbreviation element - <p><abbr title="HyperText Markup Language">HTML</abbr> is the foundation of the web.</p>
+Address element - <address>
+<h2>Company Name</h2>
+<p>
+1234 Elm Street<br />
+Springfield, IL 62701<br />
+United States
+</p>
+<p>Phone: <a href="tel:+15555555555">+1 (555) 555-5555</a></p>
+<p>Email: <a href="mailto:contact@company.com">contact@company.com</a></p>
+</adcdress>
+Time element - <p>The reservations are for <time datetime="20:00">20:00 </time></p>
+TIME element - <p>
+The graduation will be on <time datetime="2024-06-15T15:00">June 15</time>
+</p>
+Superscript element - <p>2<sup>2</sup> (2 squared) is 4.</p>
+Subscript element - <p>CO<sub>2</sub></p>
+Code element - <code>color: blue;</code>
+Preformatted code element - <pre>
+<code>
+body {
+color: red;
+}
+</code>
+</pre>
+Underline element - <u>underlined text</u>
+Strikethrough element - <s>struck-through text</s>
+Ruby annotation element - <ruby>明日<rp>(</rp><rt>Ashita</rt><rp>)</rp></ruby>
+Ruby parenthesis element - <rp>(</rp>
+Ruby text element - <rt>Ashita</rt>
+Article element - <article>---</article>
+Form element - <form action="url-goes-here">---</form>
+Type input element - <form action=""><input type="text" /></form>
+Label element - <form action=""><label>Full Name: <input type="text" /></label></form>
+Explicit label element - <form action=""><label for="email">Email Address:</label><input type="email" id="email" /></form>
+Placeholder attribute - <input type="email" id="email" placeholder="example@email.com" />
+Normal button - <button>Start Game</button>
+Standard button - <button type="button">Show Alert</button>
+Reset button - <button type="reset">Reset form</button>
+Input button element - <input class="start-btn" type="button" value="Start Game" />
+Submit input type - <input type="submit" value="Submit" />
+Reset input type - <input type="reset" value="Reset" />
+Button input type - <input type="button" value="Start Game" />
+Required, minlength, and maxlength attributes - <input required type="email" name="email" id="email" minlength="4" maxlength="64" />
+Method attribute - <form action="url-goes-here" method="post">---</form>
+Fieldset element - <form action="url-goes-here" method="post"><fieldset>---</fieldset></form>
+Legend element - <form action="url-goes-here" method="post"><fieldset><legend>---</legend></fieldset></form>
+Input with size attribute - <form action="url-goes-here" method="post"><input type="text" size="30" /></form>
+Number input with min and max - <form action="url-goes-here" method="post"><input type="number" min="1" max="10" /></form>
+Radio element with label and input - <form action="url-goes-here" method="post"><label><input type="radio" name="choice" value="option1" /> Option 1</label></form>
+Checkbox element - <form action="url-goes-here" method="post"><label><input type="checkbox" name="option" value="option1" /> Option 1</label></form>
+Checked attribute - <form action="url-goes-here" method="post"><label><input type="checkbox" name="option" value="option1" checked /> Option 1</label></form>
+Select element - <form action="url-goes-here" method="post"><label for="city">Choose a City:</label><select id="city" name="city"><option value="new-york">New York</option><option value="los-angeles">Los Angeles</option><option value="chicago">Chicago</option><option value="miami">Miami</option></select></form>
+Selected attribute - <form action="url-goes-here" method="post"><select name="service" id="service"><option value="poor">Poor</option><option value="satisfactory">Satisfactory</option><option value="good">Good</option><option value="very-good">Very Good</option><option selected value="excellent">Excellent</option></select></form>
+Textarea element - <form action="url-goes-here" method="post"><textarea id="comments" name="comments" rows="4" cols="50"></textarea></form>
+Table element - <table><thead><tr><th>The title of this table</th></tr></thead><tbody><tr><th>First Row</th><td>First Data Cell</td></tr><tr><th>Second Row</th><td>Second Data Cell</td></tr></tbody><tfoot><tr><th>The footer of this table, which might contain date of publication, author credits, or other meta information.</th></tr></tfoot></table>
+Caption element - <table><caption>Table Caption</caption><thead><tr><th>The title of this table</th></tr></thead><tbody><tr><th>First Row</th><td>First Data Cell</td></tr></tbody></table>
+Colspan attribute - <table><tr><th colspan="2">Spans two columns</th></tr></table>
+Second colspan attribute - <table><tr><td colspan="3">Total Points</td></tr></table>
+aria-label — Gives an element an accessible name directly.
+aria-labelledby — Gives an element an accessible name using the text of another element's id.
+aria-describedby — Associates an element with additional descriptive text from another element's id.
+aria-hidden="true" — Hides an element from the accessibility tree while keeping it visible on the page.
