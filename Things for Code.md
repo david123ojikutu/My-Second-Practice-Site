@@ -31,7 +31,7 @@ Section element - &lt;section&gt;&lt;/section&gt;<br>
 Unordered list element - &lt;ul&gt; &lt;li&gt;&lt;/li&gt; &lt;/ul&gt;<br>
 Ordered list element - &lt;ol&gt; &lt;li&gt;&lt;/li&gt; &lt;/ol&gt;<br>
 **Figure element - &lt;figure&gt;&lt;/figure&gt;<br>
-Figcaption element - &lt;figcaption&gt;&lt;/figcaption**&gt;<br>
+Figcaption element - &lt;figcaption&gt;&lt;/figcaption&gt;**<br>
 Emphasis element - &lt;em&gt;love&lt;/em&gt;<br>
 Strong element - &lt;strong&gt;hate&lt;/strong&gt;<br>
 **Footer element - &lt;footer&gt;&lt;/footer&gt;**<br>
