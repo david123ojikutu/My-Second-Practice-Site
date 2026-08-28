@@ -27,7 +27,7 @@ Metadata element7 (w/ OG) - &lt;meta content="freecodecamp.org" property="og:url
 Comment element (sorta) - &lt;!-- TODO: Remove h1 --&gt;<br>
 Target Attribute - &lt;a href="" target="_blank"&gt;&lt;/a&gt;<br>
 **Main element - &lt;main&gt;&lt;/main&gt;**<br>
-Section element - &lt;section&gt;&lt;/section&gt;<br>
+**Section element - &lt;section&gt;&lt;/section&gt;**<br>
 Unordered list element - &lt;ul&gt; &lt;li&gt;&lt;/li&gt; &lt;/ul&gt;<br>
 Ordered list element - &lt;ol&gt; &lt;li&gt;&lt;/li&gt; &lt;/ol&gt;<br>
 **Figure element - &lt;figure&gt;&lt;/figure&gt;<br>
@@ -38,7 +38,7 @@ Strong element - &lt;strong&gt;hate&lt;/strong&gt;<br>
 Div element - &lt;div&gt;&lt;/div&gt;<br>
 Id attribute - &lt;h1 id="title"&gt;Movie Review Page&lt;/h1&gt;<br>
 Class attribute - &lt;div class="box"&gt;&lt;/div&gt;<br>
-HTML entitles (for reserved characters) - &lt;p&gt;learning is fun&lt;/p&gt;<br>
+**HTML entitles (for reserved characters) - &lt;p&gt;learning is fun&lt;/p&gt;**<br>
 Script element - &lt;script src=""&gt;&lt;/script&gt;<br>
 Button element - &lt;button&gt;&lt;/button&gt;<br>
 Audio element - &lt;audio src="https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3" loop controls muted&gt;&lt;/audio&gt;<br>
