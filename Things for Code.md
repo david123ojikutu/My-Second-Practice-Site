@@ -5,6 +5,7 @@ Checked Attribute - &lt;input type="checkbox" checked&gt;<br>
 Detailed Checked Attribute - &lt;input type="checkbox" name="subscribe" value="yes" checked&gt;<br>
 Disabled Attribute - &lt;input type="text" name="username" disabled&gt;<br>
 Required Attribute - &lt;input type="text" name="phone" required&gt;<br>
+Small element - &lt;small>&lt;/small&gt;<br>
 Readonly Attribute - &lt;input type="text" name="email" readonly&gt;<br>
 **"A" Element - &lt;a href="" target=""&gt;&lt;/a&gt;**<br>
 **Link Element - &lt;link rel="" href=""&gt;**<br>
