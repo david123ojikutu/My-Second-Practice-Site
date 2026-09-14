@@ -3,4 +3,4 @@ This is just a practice site for me to practice what I'm learning in HTML, CSS, 
 
 Also, like my previous practice site, this one also has a <a href="DEVELOPMENT.md">DEVELOPMENT.md page</a> where you can see its development.
 
-DISCLAIMER: Art Hub is a fictional educational project created for web-development practice. References and external links are provided for illustrative purposes only and <strong>do not indicate any real affiliation or endorsement</strong>.
+DISCLAIMER: <em>Art Hub is a fictional educational project created for web-development practice. References and external links are provided for illustrative purposes only and <strong>do not indicate any real affiliation or endorsement</strong></em>.
