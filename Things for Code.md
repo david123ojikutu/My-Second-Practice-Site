@@ -30,15 +30,15 @@ Target Attribute - &lt;a href="" target="_blank"&gt;&lt;/a&gt;**<br>
 **Main element - &lt;main&gt;&lt;/main&gt;**<br>
 **Section element - &lt;section&gt;&lt;/section&gt;**<br>
 Unordered list element - &lt;ul&gt; &lt;li&gt;&lt;/li&gt; &lt;/ul&gt;<br>
-Ordered list element - &lt;ol&gt; &lt;li&gt;&lt;/li&gt; &lt;/ol&gt;<br>
+**Ordered list element - &lt;ol&gt; &lt;li&gt;&lt;/li&gt; &lt;/ol&gt;**<br>
 **Figure element - &lt;figure&gt;&lt;/figure&gt;<br>
 Figcaption element - &lt;figcaption&gt;&lt;/figcaption&gt;**<br>
-Emphasis element - &lt;em&gt;love&lt;/em&gt;<br>
+**Emphasis element - &lt;em&gt;love&lt;/em&gt;**<br>
 Strong element - &lt;strong&gt;hate&lt;/strong&gt;<br>
 **Footer element - &lt;footer&gt;&lt;/footer&gt;**<br>
-Div element - &lt;div&gt;&lt;/div&gt;<br>
+**Div element - &lt;div&gt;&lt;/div&gt;<br>
 Id attribute - &lt;h1 id="title"&gt;Movie Review Page&lt;/h1&gt;<br>
-Class attribute - &lt;div class="box"&gt;&lt;/div&gt;<br>
+Class attribute - &lt;div class="box"&gt;&lt;/div&gt;**<br>
 **HTML entitles (for reserved characters) - &lt;p&gt;learning is fun&lt;/p&gt;**<br>
 Script element - &lt;script src=""&gt;&lt;/script&gt;<br>
 Button element - &lt;button&gt;&lt;/button&gt;<br>
@@ -80,7 +80,7 @@ Navigation element - &lt;nav&gt;
 &lt;a href="#"&gt;Home&lt;/a&gt;
 &lt;a href="#"&gt;About&lt;/a&gt;
 &lt;a href="#"&gt;Contact&lt;/a&gt;
-&lt;/nav&gt;<br>
+**&lt;/nav&gt;<br>
 Idiomatic element - &lt;p&gt;There is a certain &lt;i lang="fr"&gt;je ne sais quoi&lt;/i&gt; in the air.&lt;/p&gt;<br>
 Emphasis element - &lt;p&gt;
 Never give up on &lt;em&gt;your&lt;/em&gt; dreams.
@@ -90,7 +90,7 @@ We tested several products, including the &lt;b&gt;SuperSound 3000&lt;/b&gt; for
 quality, the &lt;b&gt;QuickCharge Pro&lt;/b&gt; for fast charging, and the
 &lt;b&gt;EcoClean Vacuum&lt;/b&gt; for cleaning. The first two performed well, but the
 &lt;b&gt;EcoClean Vacuum&lt;/b&gt; did not meet expectations.
-&lt;/p&gt;<br>
+&lt;/p&gt;**<br>
 Strong element - &lt;p&gt;
 &lt;strong&gt;Warning:&lt;/strong&gt; This product may cause allergic reactions.
 &lt;/p&gt;<br>
@@ -147,7 +147,7 @@ Strikethrough element - &lt;s&gt;struck-through text&lt;/s&gt;<br>
 Ruby annotation element - &lt;ruby&gt;明日&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;Ashita&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;<br>
 Ruby parenthesis element - &lt;rp&gt;(&lt;/rp&gt;<br>
 Ruby text element - &lt;rt&gt;Ashita&lt;/rt&gt;<br>
-Article element - &lt;article&gt;---&lt;/article&gt;<br>
+**Article element - &lt;article&gt;---&lt;/article&gt;**<br>
 Form element - &lt;form action="url-goes-here"&gt;---&lt;/form&gt;<br>
 Type input element - &lt;form action=""&gt;&lt;input type="text" /&gt;&lt;/form&gt;<br>
 Label element - &lt;form action=""&gt;&lt;label&gt;Full Name: &lt;input type="text" /&gt;&lt;/label&gt;&lt;/form&gt;<br>
