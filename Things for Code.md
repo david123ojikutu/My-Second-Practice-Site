@@ -25,8 +25,8 @@ Metadata element5 (w/ OG) - &lt;meta content="website" property="og:type" /&gt;<
 Metadata element6 (w/ OG) - &lt;meta content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" property="og:image" /&gt;<br>
 Metadata element7 (w/ OG) - &lt;meta content="freecodecamp.org" property="og:url" /&gt;<br>
 **Title element - &lt;title&gt;Document Title Goes Here&lt;/title&gt;**<br>
-Comment element (sorta) - &lt;!-- TODO: Remove h1 --&gt;<br>
-Target Attribute - &lt;a href="" target="_blank"&gt;&lt;/a&gt;<br>
+**Comment element (sorta) - &lt;!-- TODO: Remove h1 --&gt;<br>
+Target Attribute - &lt;a href="" target="_blank"&gt;&lt;/a&gt;**<br>
 **Main element - &lt;main&gt;&lt;/main&gt;**<br>
 **Section element - &lt;section&gt;&lt;/section&gt;**<br>
 Unordered list element - &lt;ul&gt; &lt;li&gt;&lt;/li&gt; &lt;/ul&gt;<br>
