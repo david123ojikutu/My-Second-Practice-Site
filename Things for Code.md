@@ -18,12 +18,12 @@ Body element - &lt;body&gt;&lt;/body&gt;**<br>
 **Doctype - &lt;!DOCTYPE html&gt;**<br>
 **HTML element - &lt;html lang="eng"&gt;**<br>
 **Metadata element1 - &lt;meta charset="UTF-8"&gt;<br>
-Metadata element2 - &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;**<br>
+**Metadata element2 - &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;**<br>
 Metadata element3 - &lt;meta name="description" content="Discover expert tips and techniques for gardening in small spaces, choosing the right plants, and maintaining a thriving garden." /&gt;<br>
 Metadata element4 (w/ OG) - &lt;meta content="freeCodeCamp.org" property="og:title" /&gt;<br>
 Metadata element5 (w/ OG) - &lt;meta content="website" property="og:type" /&gt;<br>
 Metadata element6 (w/ OG) - &lt;meta content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" property="og:image" /&gt;<br>
-Metadata element7 (w/ OG) - &lt;meta content="freecodecamp.org" property="og:url" /&gt;<br>
+Metadata element7 (w/ OG) - &lt;meta content="freecodecamp.org" property="og:url" /&gt;**<br>
 **Title element - &lt;title&gt;Document Title Goes Here&lt;/title&gt;**<br>
 **Comment element (sorta) - &lt;!-- TODO: Remove h1 --&gt;<br>
 Target Attribute - &lt;a href="" target="_blank"&gt;&lt;/a&gt;**<br>
