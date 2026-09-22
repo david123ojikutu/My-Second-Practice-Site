@@ -29,7 +29,7 @@ Metadata element7 (w/ OG) - &lt;meta content="freecodecamp.org" property="og:url
 Target Attribute - &lt;a href="" target="_blank"&gt;&lt;/a&gt;**<br>
 **Main element - &lt;main&gt;&lt;/main&gt;**<br>
 **Section element - &lt;section&gt;&lt;/section&gt;**<br>
-Unordered list element - &lt;ul&gt; &lt;li&gt;&lt;/li&gt; &lt;/ul&gt;<br>
+**Unordered list element - &lt;ul&gt; &lt;li&gt;&lt;/li&gt; &lt;/ul&gt;**<br>
 **Ordered list element - &lt;ol&gt; &lt;li&gt;&lt;/li&gt; &lt;/ol&gt;**<br>
 **Figure element - &lt;figure&gt;&lt;/figure&gt;<br>
 Figcaption element - &lt;figcaption&gt;&lt;/figcaption&gt;**<br>
@@ -69,17 +69,17 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 referrerpolicy="strict-origin-when-cross-origin"
 allowfullscreen
 &gt;&lt;/iframe&gt;<br>
-Iframe Map element - &lt;iframe
+**Iframe Map element - &lt;iframe
 title="Map of the Royal Observatory, Greenwich, London"
 width="300"
 height="200"
 src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik"&gt;
-&lt;/iframe&gt;<br>
+&lt;/iframe&gt;**<br>
 Input Image element - &lt;input type="image" alt="Descriptive text goes here" src="example-img-url"&gt;<br>
-Navigation element - &lt;nav&gt;
+**Navigation element - &lt;nav&gt;
 &lt;a href="#"&gt;Home&lt;/a&gt;
 &lt;a href="#"&gt;About&lt;/a&gt;
-&lt;a href="#"&gt;Contact&lt;/a&gt;
+&lt;a href="#"&gt;Contact&lt;/a&gt;**
 **&lt;/nav&gt;<br>
 Idiomatic element - &lt;p&gt;There is a certain &lt;i lang="fr"&gt;je ne sais quoi&lt;/i&gt; in the air.&lt;/p&gt;<br>
 Emphasis element - &lt;p&gt;
